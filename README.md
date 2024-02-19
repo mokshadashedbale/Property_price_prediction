@@ -3,19 +3,31 @@
 This project focuses on predicting property prices using a regression model. The dataset comprises various features related to properties along with the target variable, Sale_Price. Before building the regression model, the dataset undergoes data cleaning and outlier removal processes to ensure the quality and accuracy of predictions.
 
 Dataset Description
+
 The dataset consists of the following variables:
 
 Id
+
 Building_Class
+
 Zoning_Class
+
 Lot_Extent
+
 Lot_Size
+
 Road_Type
+
 Lane_Type
+
 Property_Shape
+
 Land_Outline
+
 Utility_Type
+
 Lot_Configuration
+
 Property_Slope
 Neighborhood
 Condition1
